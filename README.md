@@ -1,34 +1,38 @@
-# PSE_Abilium 🚀
+pse_meeting_room_iot_system - PSE_Abilium_2025
+Project description
+PSE_Abilium is an IoT module for the open source ERP system Odoo that enables the management and labeling of meeting rooms with e-Ink displays. The aim of the project is to avoid double bookings by displaying reservation information on an e-Ink display.
 
-## Projektbeschreibung 📌
-PSE_Abilium ist ein IoT-Modul für das Open-Source-ERP-System Odoo, das die Verwaltung und Beschriftung von Sitzungszimmern mit e-Ink-Displays ermöglicht. Das Ziel des Projekts ist es, Doppelbuchungen zu vermeiden, indem Reservierungsinformationen auf einem e-Ink-Display dargestellt werden.  
+Features
+Calendar integration : Seamless linking with the Odoo calendar system
+Room reservation: Easy assignment of rooms to calendar events
+E-Ink display support: Energy-saving display of current and upcoming room bookings
+MQTT communication: Reliable real-time data transfer between Odoo and the Raspberry Pi devices
+Status update: Automatic updating of displays when changes are made in the calendar
+Technical requirements
+Server requirements
+Odoo v18.0
+Python
+MQTT broker
+Internet connection for communication between Odoo and the display devices
+Display hardware
+Raspberry Pi
+E-Ink display
+Micro SD card
+Stable power supply
+WLAN connection
+Getting started
+To use this module, you need to have Odoo installed.
 
-Die Lösung umfasst:  
-- Ein **Odoo-Modul**, das die Raumverwaltung und Reservierungen steuert.  
-- Eine **Raspberry Pi-Anwendung**, die die Belegungsdaten abruft und auf einem e-Ink-Display darstellt.  
+After installing Odoo, download this module and place its contents into your Odoo addons directory.
 
-### Technologien  
-- **Odoo** (Python, JavaScript, XML, Web-Technologien)  
-- **Raspberry Pi** mit e-Ink-Display  
-- **IoT-Integration** für Echtzeit-Datenabruf  
+Next, open Odoo, go to the Apps page, and install the Abilium room booker module.
 
-## Team & Rollen  
+Documentation
+For more detailed guidance on installing and using this module, please refer to our [user manual]. Additionally, you can find documentation on the architecture[here].
 
-| Name          | Rolle                | Verantwortlichkeiten | E-Mails
-|--------------|----------------------|----------------------|-----------------------|
-| **Carolina Lucca** | **Key Account Manager**  | Kundenkontakt |carolina.lucca@students.unibe.ch
-| **Livia Brunner** | **Chief Deliverable Officer**  | Verantwortlich abzugebende Dokumente & Deadlines | livia.brunner@students.unibe.ch
-| **Myroslav Pavlov** | **Quality Evangelist**  | Erstellen Testkonzept & Durchführung Software-Tests | myroslav.pavlov@students.unibe.ch
-| **Linus Marti** | **Master Tracker**  | Erstellen Statusberichte & Überblick Projektstatus | linus.marti@students.unibe.ch
-| **Yannis Racine** | **Protokollführer**  | Erstellen Sitzungs- & Beschlussprotokolle | yannis.racine@students.unibe.ch
-| **Dominic Kronig** | **Sitzungsleiter**  | Leitung & Vorbereitung Sitzungen | dominic.kronig@students.unibe.ch
+Development and customization
+The module can be easily extended to implement additional functions:
 
+Integration with presence sensors to detect unused reservations
+Extensions for other display types
 
-## Installation & Setup  
-TO BE ADDED  
-
-## Quellen  
-- [Odoo – Open Source ERP-System](https://www.odoo.com)  
-
-## Lizenz
-Dieses Projekt steht unter der MIT Lizenz. Weitere Informationen finden Sie in der [LICENSE-Datei](./LICENSE).
