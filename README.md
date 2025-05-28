@@ -40,7 +40,7 @@ Next, open Odoo, go to the Apps page, and install the `Abilium room booker` modu
 
 ## Documentation
 
-For more detailed guidance on installing and using this module, please refer to our [user manual]. 
+For more detailed guidance on installing and using this module, please refer to our [user manual](https://github.com/Abilium-GmbH/pse_meeting_room_iot_system/blob/dev_branch/dokumentation/Manual_Abilium_room_booker.pdf). 
 Additionally, you can find documentation on the architecture[here].
 
 
