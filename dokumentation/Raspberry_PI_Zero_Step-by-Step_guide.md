@@ -46,6 +46,8 @@ Time to set up the imaging software:
 5. Browse to find and select the **Raspberry Pi image file** we provided to you
 6. The image will now be loaded into the imager
 
+   <img src="https://github.com/user-attachments/assets/705d122a-f195-4ab6-bb0f-dfa3a01f4886" alt="settings_gif" width="400"/>
+
 ## Step 4: Select Your SD Card
 
 1. Click on "Choose Storage"
@@ -69,6 +71,8 @@ These settings are crucial for your Raspberry Pi to work properly:
 
 ### SSH Settings:
 - **Enable SSH:** Check this box (this allows remote access to your Raspberry Pi)
+
+  <img src="https://github.com/user-attachments/assets/efb37644-4013-4e5a-acc9-38a0497354e1" alt="settings_gif" width="400"/>
 
 ### Save Your Settings:
 1. Click "Save" to save all your settings
