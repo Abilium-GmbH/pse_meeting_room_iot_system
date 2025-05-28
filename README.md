@@ -7,17 +7,17 @@ PSE_Abilium is an IoT module for the open source ERP system Odoo that enables th
 
 ## Features
 
-- **Calendar integration** : Seamless linking with the Odoo calendar system
+- ### **Calendar integration** : Seamless linking with the Odoo calendar system
 
   <img src="https://github.com/user-attachments/assets/62ad1ba0-e67c-4f6a-a06a-f17bbac030d5" alt="settings_gif" width="400"/>
-- **Room reservation**: Easy assignment of rooms to calendar events
+- ### **Room reservation**: Easy assignment of rooms to calendar events
 
   <img src="https://github.com/user-attachments/assets/ee419069-2993-48fd-b09c-ac4825420387" alt="size_filter_gif" width="400"/>
-- **E-Ink display support**: Energy-saving display of current and upcoming room bookings
-- **MQTT communication**: Reliable real-time data transfer between Odoo and the Raspberry Pi devices
+- ### **E-Ink display support**: Energy-saving display of current and upcoming room bookings
+- ### **MQTT communication**: Reliable real-time data transfer between Odoo and the Raspberry Pi devices
 
   <img src="https://github.com/user-attachments/assets/5c7e17ae-d4c6-4200-98ea-c4be59f72a8a" alt="settings_gif" width="500"/>
-- **Status update**: Automatic updating of displays when changes are made in the calendar
+- ### **Status update**: Automatic updating of displays when changes are made in the calendar
 
 
 ## Technical requirements
