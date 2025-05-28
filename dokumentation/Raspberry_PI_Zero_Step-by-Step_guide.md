@@ -41,6 +41,8 @@ Time to set up the imaging software:
 
 1. Open the Raspberry Pi Imager (if not already open)
 2. Click on "Choose Device" and select **Raspberry Pi Zero**
+
+   <img src="https://github.com/user-attachments/assets/b3df41f9-1d5f-493f-b90f-4c127603304f" alt="settings_gif" width="400"/>
 3. Click on "Choose OS"
 4. Scroll down to the bottom of the list and select **"Use custom"**
 5. Browse to find and select the **Raspberry Pi image file** we provided to you
@@ -66,10 +68,10 @@ These settings are crucial for your Raspberry Pi to work properly:
 ### WiFi Settings:
 - **Enable WiFi:** Check this box
 - **Network name (SSID):** Enter your WiFi network name
-- **Password:** Enter your WiFi password
-- **WiFi country:** Select your country
 
   <img src="https://github.com/user-attachments/assets/e0ec401a-484e-4893-8074-80e9684a8899" alt="settings_gif" width="400"/>
+- **Password:** Enter your WiFi password
+- **WiFi country:** Select your country
 
 
 ### SSH Settings:
