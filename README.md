@@ -1,6 +1,8 @@
 # pse_meeting_room_iot_system - PSE_Abilium_2025
 
+<p align="center">
 <img src="https://github.com/user-attachments/assets/1c06c54e-1a5c-4198-8112-ee88094842c1" alt="settings_gif" width="600"/>
+</p>
 
 ## Project description 
  
