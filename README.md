@@ -1,8 +1,14 @@
-# pse_meeting_room_iot_system -  PSE_Abilium_2025
+# pse_meeting_room_iot_system - PSE_Abilium_2025
 
-## Project description
+<img src="https://github.com/user-attachments/assets/62ad1ba0-e67c-4f6a-a06a-f17bbac030d5" alt="settings_gif" width="400"/>
+
+
+## Project description 
  
 PSE_Abilium is an IoT module for the open source ERP system Odoo that enables the management and labeling of meeting rooms with e-Ink displays. The aim of the project is to avoid double bookings by displaying reservation information on an e-Ink display.
+
+<img src="https://github.com/user-attachments/assets/ee419069-2993-48fd-b09c-ac4825420387" alt="size_filter_gif" width="400"/>
+
 
 ## Features
 
