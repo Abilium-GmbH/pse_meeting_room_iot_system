@@ -69,6 +69,9 @@ These settings are crucial for your Raspberry Pi to work properly:
 - **Password:** Enter your WiFi password
 - **WiFi country:** Select your country
 
+  <img src="https://github.com/user-attachments/assets/e0ec401a-484e-4893-8074-80e9684a8899" alt="settings_gif" width="400"/>
+
+
 ### SSH Settings:
 - **Enable SSH:** Check this box (this allows remote access to your Raspberry Pi)
 
