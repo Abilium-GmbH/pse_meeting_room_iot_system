@@ -12,6 +12,8 @@ PSE_Abilium is an IoT module for the open source ERP system Odoo that enables th
 - **MQTT communication**: Reliable real-time data transfer between Odoo and the Raspberry Pi devices
 - **Status update**: Automatic updating of displays when changes are made in the calendar
 
+<iframe width="560" height="315" src="----" frameborder="0" allowfullscreen></iframe>
+
 ## Technical requirements
 
 #### Server requirements
@@ -41,7 +43,7 @@ Next, open Odoo, go to the Apps page, and install the `Abilium room booker` modu
 ## Documentation
 
 For more detailed guidance on installing and using this module, please refer to our [user manual](https://github.com/Abilium-GmbH/pse_meeting_room_iot_system/blob/dev_branch/dokumentation/Manual_Abilium_room_booker.pdf). 
-Additionally, you can find documentation on the architecture[here].
+Additionally, you can find documentation on the architecture[here](https://github.com/Abilium-GmbH/pse_meeting_room_iot_system/blob/dev_branch/dokumentation/MQTT_Documentation.md).
 
 
 ## Development and customization
