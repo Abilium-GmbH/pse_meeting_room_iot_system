@@ -1,7 +1,7 @@
 # Occupation Status Display System for Meeting Rooms
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/1c06c54e-1a5c-4198-8112-ee88094842c1" alt="settings_gif" width="600"/>
+<img src="https://github.com/user-attachments/assets/1c06c54e-1a5c-4198-8112-ee88094842c1" alt="Ink_display_welcome_gif" width="600"/>
 </p>
 
 ## Project description 
@@ -21,7 +21,7 @@ Our custom Odoo module "Abilium Room Booker" is seamlessly integrated into the s
 - ### 🖥️ **E-Ink display support**: Display current and upcoming room bookings in an energy-saving way
 - ### 📡 **MQTT communication**: Transfers real-time data reliably between Odoo and the Raspberry Pi devices
 
-  <img src="https://github.com/user-attachments/assets/5c7e17ae-d4c6-4200-98ea-c4be59f72a8a" alt="settings_gif" width="500"/>
+  <img src="https://github.com/user-attachments/assets/5c7e17ae-d4c6-4200-98ea-c4be59f72a8a" alt="mqtt_connection_gif" width="500"/>
 - ### 🔄 **Status update**: Automatically updates the displays when changes are made in the calendar
 
 
